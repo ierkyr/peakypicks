@@ -1,0 +1,42 @@
+# Documentation
+HELP.md
+
+# Ignore build directories
+target/
+build/
+
+# Ignore Maven wrapper files (optional; if you don't want to include them)
+mvnw
+mvnw.cmd
+
+# Ignore app properties (sensitive data)
+application.properties
+*.properties
+
+### STS (Spring Tool Suite) ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
