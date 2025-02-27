@@ -19,9 +19,6 @@ PeakyPicks is a RESTful API built with Spring Boot that allows a user to search 
 - **Spring Data JPA (Hibernate)**
 - **H2/PostgreSQL/MySQL (Configurable)**
 - **Maven**
-- **Swagger (API Documentation)**
-- **Lombok (Simplified Annotations)**
-
 ---
 
 ## Installation & Setup
